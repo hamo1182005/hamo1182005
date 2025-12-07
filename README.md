@@ -57,8 +57,6 @@ A passionate developer focused on building fast, robust, and user-friendly web a
 ### 💬 Ask Me About
 **Web Development – React – UI/UX – JavaScript**
 
-### 📩 Contact
-**Telegram:** <a herf="https://t.me/01026034692> hamo</a>
 
 <div align="center" >
 <a  href="https://github.com/hamo1182005
