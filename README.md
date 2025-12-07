@@ -11,7 +11,7 @@
 </details>
 
 
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/01026034692) <br>
+[![telegram badge](https://img.shields.io/badge/hamo-grey?style=flat&logo=telegram)](https://t.me/01026034692) <br>
 </div>
 
 <hr></hr>
@@ -23,7 +23,6 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ```wed
@@ -43,21 +42,23 @@ class About extends Me {
 
 
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-🌐 Full-Stack Web Developer
+🚀 **Full-Stack Web Developer**  
+A passionate developer focused on building fast, robust, and user-friendly web applications.
 
-⚛️ بشتغل على بناء واجهات تفاعلية بـ React
+### 🛠️ What I Do
+- ⚛️ Build interactive front-end interfaces using **React**
+- 🎨 Create clean and elegant UIs with **Bootstrap + CSS**
+- 💛 Develop strong web foundations with **HTML + JavaScript**
+- 🐧 Explore and learn more about the **Linux** ecosystem
+- 🧩 Solve problems and craft practical software solutions
 
-🎨 بخلي UI أنيق وسريع باستخدام Bootstrap + CSS
+### 💬 Ask Me About
+**Web Development – React – UI/UX – JavaScript**
 
-💛 بعتمد على HTML + JavaScript في بناء Web Core قوي
-
-🐧 بحب استكشاف عالم Linux
-
-💬 اسألني عن: Web, React, UI, أو أي سؤال
-
-📩 تيليجرام: Mohammed
+### 📩 Contact
+**Telegram:** <a herf="https://t.me/01026034692> hamo</a>
 
 <div align="center" >
 <a  href="https://github.com/hamo1182005
@@ -74,7 +75,11 @@ class About extends Me {
 
 <details>
   <summary>More stats</summary>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamo1182005&theme=react" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamo1182005&layout=compact&theme=react" width="47%" /> </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamo1182005&theme=react" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamo1182005&layout=compact&theme=react" width="47%" />
+</div>
+
 
 </details>
   
